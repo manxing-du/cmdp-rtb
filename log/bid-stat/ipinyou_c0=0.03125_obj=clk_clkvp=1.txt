@@ -1,0 +1,19 @@
+setting                                                     	  objective	  auction	 impression	    click	     cost	  win-rate	      CPM	     eCPC
+ipinyou, camp=1458, algo=CMDP, c0=0.03125                   	        515	   614638	      55046	      464	  1256566	     8.96%	    22.83	     2.71
+ipinyou, camp=1458, algo=batch-CMDP, c0=0.03125                       	        515	   614638	      70693	      462	  1292917	    11.50%	    18.29	     2.80
+ipinyou, camp=2259, algo=CMDP, c0=0.03125                   	        130	   417197	      60625	       13	  1163118	    14.53%	    19.19	    89.47
+ipinyou, camp=2259, algo=batch-CMDP, c0=0.03125                       	        130	   417197	      59732	       10	  1191626	    14.32%	    19.95	   119.16
+ipinyou, camp=2261, algo=CMDP, c0=0.03125                   	         97	   343862	      62355	        8	   944816	    18.13%	    15.15	   118.10
+ipinyou, camp=2261, algo=batch-CMDP, c0=0.03125                       	         97	   343862	      58234	        7	   815216	    16.94%	    14.00	   116.46
+ipinyou, camp=2821, algo=CMDP, c0=0.03125                   	        378	   661964	     101275	       39	  1767657	    15.30%	    17.45	    45.32
+ipinyou, camp=2821, algo=batch-CMDP, c0=0.03125                       	        378	   661964	      83721	       41	  1846943	    12.65%	    22.06	    45.05
+ipinyou, camp=2997, algo=CMDP, c0=0.03125                   	        530	   156063	      33315	       71	   209184	    21.35%	     6.28	     2.95
+ipinyou, camp=2997, algo=batch-CMDP, c0=0.03125                       	        530	   156063	      33319	       71	   211681	    21.35%	     6.35	     2.98
+ipinyou, camp=3358, algo=CMDP, c0=0.03125                   	        260	   300928	      14293	      208	   702449	     4.75%	    49.15	     3.38
+ipinyou, camp=3358, algo=batch-CMDP, c0=0.03125                       	        260	   300928	      13194	      203	   868782	     4.38%	    65.85	     4.28
+ipinyou, camp=3386, algo=CMDP, c0=0.03125                   	        445	   545421	      38893	       92	  1194723	     7.13%	    30.72	    12.99
+ipinyou, camp=3386, algo=batch-CMDP, c0=0.03125                       	        445	   545421	      42199	       91	  1297825	     7.74%	    30.75	    14.26
+ipinyou, camp=3427, algo=CMDP, c0=0.03125                   	        366	   536795	      34033	      292	  1305745	     6.34%	    38.37	     4.47
+ipinyou, camp=3427, algo=batch-CMDP, c0=0.03125                       	        366	   536795	      34739	      292	  1273287	     6.47%	    36.65	     4.36
+ipinyou, camp=3476, algo=CMDP, c0=0.03125                   	        287	   523848	      28671	      181	  1296822	     5.47%	    45.23	     7.16
+ipinyou, camp=3476, algo=batch-CMDP, c0=0.03125                       	        287	   523848	      27449	      188	  1281377	     5.24%	    46.68	     6.82
