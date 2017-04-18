@@ -1,5 +1,5 @@
 ## Constrained Markov Decision Process based Real-Time Bidding
-This is the repository for the code used in the paper **Constrained Markov Decision Process based Real-Time Bidding 
+This is the repository for the code used in the paper **Constrained Markov Decision Process based Real-Time Bidding**
 
 ## Experiment 1
 Run under the **python** folder:
